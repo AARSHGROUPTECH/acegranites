@@ -8,7 +8,7 @@ const {
   getQuotationTemplateController,
   updateQuotationTemplateController,
   deleteQuotationTemplateController,
-} = require("../controllers/QuotationTemplateController");
+} = require("../controllers/quotationTemplateController");
 
 //Route configure
 router.post(
