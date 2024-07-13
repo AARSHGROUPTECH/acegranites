@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e24b2f86.css",
-    "main.js": "/static/js/main.b95723d1.js",
+    "main.css": "/static/css/main.13047096.css",
+    "main.js": "/static/js/main.c359abd9.js",
     "static/media/login_image.jpg": "/static/media/login_image.707df5d788568904137b.jpg",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
     "static/media/1.png": "/static/media/1.31deb343ec5115b329e9.png",
@@ -15,13 +15,14 @@
     "static/media/certify.png": "/static/media/certify.9a0200ac232f252117eb.png",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
     "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/kohler.png": "/static/media/kohler.32dc961f7185deca4589.png",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/index.html",
-    "main.e24b2f86.css.map": "/static/css/main.e24b2f86.css.map",
-    "main.b95723d1.js.map": "/static/js/main.b95723d1.js.map"
+    "main.13047096.css.map": "/static/css/main.13047096.css.map",
+    "main.c359abd9.js.map": "/static/js/main.c359abd9.js.map"
   },
   "entrypoints": [
-    "static/css/main.e24b2f86.css",
-    "static/js/main.b95723d1.js"
+    "static/css/main.13047096.css",
+    "static/js/main.c359abd9.js"
   ]
 }
